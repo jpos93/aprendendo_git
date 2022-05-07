@@ -1,11 +1,19 @@
-Termos do Scrum
+Termos do Scrum:
 
 - Sprint:  O Sprint representa um Time Box dentro do qual um conjunto de atividades deve ser executado.
+
 - Product Backlog: É uma lista emergente e ordenada das funcionalidades e do que é necessário para melhorar o produto. 
+
 - Sprint Planning: A Sprint Planning ou Reunião de Planejamento de Sprint é uma cerimônia simples dentro do processo ágil Scrum.
+
 - Sprint Backlog: é uma lista de tarefas que o Scrum Team se compromete a fazer em um Sprint. 
+
 - Daily Meeting: é basicamente, uma reunião diária, que deve durar até 15 minutos. Essa conversa visa entender o que já foi feito, o que precisa ser colocado em prática naquele dia e também identificar gargalos que estejam impossibilitando o andamento dos processos.
+
 - Sprint Review: é o penúltimo evento da Sprint, geralmente acontece no seu último dia e tem por objetivo a inspeção do Incremento de Produto desenvolvido naquela Sprint e adaptação do Product Backlog caso necessário.
+
 - Sprint Retrospective: o objetivo da Sprint Retrospectiva é planejar maneiras de aumentar a qualidade e a eficácia. A Equipe Scrum inspeciona como foi o último Sprint em relação aos indivíduos, interações, processos, ferramentas e sua definição de Done.
+
 - Scrum Master: o Scrum Master é responsável por estabelecer o scrum. Eles fazem isso ajudando todos a entender a teoria e a prática do Scrum, tanto dentro da Equipe Scrum quanto da organização. Scrum Masters são verdadeiros líderes que servem a Equipe Scrum e a organização maior.
+
 - Product Owner: Ele é responsável por obter o valor máximo possível ao custo mínimo. Além disso, o Product Owner também é encarregado pelo portfólio de produtos, conhecido como Product Backlog. Por esse motivo, ele entende as necessidades dos usuários da empresa.
